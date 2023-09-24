@@ -1,4 +1,4 @@
-# exo-conflit
+REMOTE
 
 Petit exercice des familles
 voila 
